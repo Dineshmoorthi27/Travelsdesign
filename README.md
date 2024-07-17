@@ -21,7 +21,15 @@ The main objective of this project is to create a user-friendly interface for a 
 
 ## Screenshots
 
-![Home Page](link-to-homepage-screenshot)
+![Lock screen](https://github.com/Dineshmoorthi27/Travelsdesign/blob/main/images/MD%20Travels_pages-to-jpg-0001.jpg)
+<br/>
+![Home Screen](https://github.com/Dineshmoorthi27/Travelsdesign/blob/main/images/MD%20Travels_pages-to-jpg-0002.jpg)
+<br/>
+![Services](https://github.com/Dineshmoorthi27/Travelsdesign/blob/main/images/MD%20Travels_pages-to-jpg-0003.jpg)
+<br/>
+![Our buses](https://github.com/Dineshmoorthi27/Travelsdesign/blob/main/images/MD%20Travels_pages-to-jpg-0004.jpg)
+<br/>
+![Contact us ](https://github.com/Dineshmoorthi27/Travelsdesign/blob/main/images/MD%20Travels_pages-to-jpg-0005.jpg)
 
 
 ## Getting Started
